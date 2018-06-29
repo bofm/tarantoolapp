@@ -3,4 +3,5 @@ version: {{__version__}}
 deps:
   - https://raw.githubusercontent.com/moonlibs/config/master/config-scm-1.rockspec
   - https://raw.githubusercontent.com/moonlibs/package-reload/master/package.reload-scm-1.rockspec
+  - https://luarocks.org/manifests/olivine-labs/busted-2.0.rc12-1.rockspec
 tntdeps: {}
