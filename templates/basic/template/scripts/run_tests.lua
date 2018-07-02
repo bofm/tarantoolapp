@@ -1,5 +1,5 @@
 local tnt = require "tests.tnt"
-print(package.path)
+
 tnt.cfg{
     wal_mode = 'write',
     checkpoint_interval = 0,
